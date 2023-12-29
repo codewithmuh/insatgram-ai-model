@@ -16,7 +16,7 @@ Explore the power of Fooocus with the following resources:
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb) | Fooocus Official Colab Notebook |
 
 ## Case Study: Aitana Lopez
-Aitana Lopez, a 25-year-old Spanish model created through artificial intelligence, has captivated Instagram with her distinct pink-haired avatar. Boasting 141,000 followers, she has gained significant popularity and reportedly earns up to $10,000 per month through her Instagram account: [Fit Aitana](https://www.instagram.com/fit_aitana/?hl=en).
+Aitana Lopez, a 25-year-old Spanish model created through artificial intelligence, has captivated Instagram with her distinct pink-haired avatar. Boasting 251,000 followers, she has gained significant popularity and reportedly earns up to $10,000 per month through her Instagram account: [Fit Aitana](https://www.instagram.com/fit_aitana/?hl=en).
 
 ---
 

@@ -21,3 +21,6 @@ Aitana Lopez, a 25-year-old Spanish model created through artificial intelligenc
 ---
 
 Feel free to modify and add more details as needed. This enhanced README.md provides a clearer structure, additional features, and improved readability for users interested in utilizing Fooocus for image generation and understanding its impact, showcased through Aitana Lopez's case study.
+
+# Support
+<a href="https://www.buymeacoffee.com/codewithmuh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>

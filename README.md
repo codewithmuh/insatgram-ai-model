@@ -1,4 +1,5 @@
 # Fooocus: AI-Powered Image Generation
+![readme (3)](https://github.com/codewithmuh/insatgram-ai-model/assets/51082957/ed0532b2-8376-483d-a819-cd7c1acab5bf)
 
 Create high-quality images effortlessly for your brand using Fooocus, an advanced image generation software.
 
